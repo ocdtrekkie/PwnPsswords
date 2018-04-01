@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>PwnPsswords</RootNamespace>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+	<RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>
   </PropertyGroup>
 
 </Project>
