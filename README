@@ -1,0 +1,3 @@
+Don't like using other people's code for these sorts of things. Can't speak to whether or not it's safe to use this, enter at your own risk. I used it on passwords I already knew were burned.
+
+Pretty basic console app, uses Troy Hunt's Pwned Passwords V2 API, which does not ever send the hash of your password over the Internet.
